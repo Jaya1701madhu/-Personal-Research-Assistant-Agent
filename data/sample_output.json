@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Deep Learning Models for Crop Prediction",
+    "published": "2023-08-12",
+    "pdf_url": "https://arxiv.org/pdf/xxxx.xxxxx",
+    "ai_summary": [
+      "Discusses using deep learning for crop yield prediction",
+      "Compares different model performances",
+      "Shows improvements over traditional methods"
+    ]
+  },
+  {
+    "title": "Machine Learning for Agriculture Monitoring",
+    "published": "2022-06-05",
+    "pdf_url": "https://arxiv.org/pdf/yyyy.yyyyy",
+    "ai_summary": [
+      "Explores ML techniques for crop health monitoring",
+      "Evaluates accuracy of different models",
+      "Proposes optimized workflows for farmers"
+    ]
+  }
+]
