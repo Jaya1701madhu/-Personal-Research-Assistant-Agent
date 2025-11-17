@@ -1,4 +1,4 @@
-AI Research Assistant (Python)
+Personal Research Assistant Agent
 
 This is a small project where I built a simple Research Assistant using Python.
 The idea is straightforward: you enter a topic, and the script fetches related papers from arXiv and generates short summaries using the Groq LLaMA model.
