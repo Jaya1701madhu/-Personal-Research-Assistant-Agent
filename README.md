@@ -52,3 +52,8 @@ Summary:
 - Discusses using deep learning for crop yield prediction
 - Compares different model performances
 - Shows improvements over traditional methods
+
+Video Walkthrough:
+
+Watch the project walkthrough here: [Personal Research Assistant Agent]([https://youtu.be/YourVideoLink](https://youtu.be/ADNQLd755SE))
+
