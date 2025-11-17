@@ -54,6 +54,6 @@ Summary:
 - Shows improvements over traditional methods
 
 Video Walkthrough:
-Youtubelink: [https://github.com/Jaya1701madhu/-Personal-Research-Assistant-Agent](https://www.youtube.com/watch?v=ADNQLd755SE)
+Youtubelink: [https://www.youtube.com/watch?v=ADNQLd755SE](https://www.youtube.com/watch?v=ADNQLd755SE)](https://www.youtube.com/watch?v=ADNQLd755SE)
 Watch the project walkthrough here: [Personal Research Assistant Agent]([https://youtu.be/YourVideoLink](https://youtu.be/ADNQLd755SE))
 
